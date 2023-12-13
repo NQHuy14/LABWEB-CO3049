@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<products>
+  <product>
+    <productName>IPHONE 15</productName>
+    <prices>$999</prices>
+    <number_of_product>6</number_of_product>
+    <image>firstProduct.jpg</image>
+  </product>
+  <product>
+    <productName>IPHONE 14 LIKE NEW</productName>
+    <prices>$699</prices>
+    <number_of_product>5</number_of_product>
+    <image>secondProduct.jpg</image>
+  </product>
+  <product>
+    <productName>IPHONE 14 NEW </productName>
+    <prices>$799</prices>
+    <number_of_product>10</number_of_product>
+    <image>secondProduct.jpg</image>
+  </product>
+  <product>
+    <productName>IPHONE 13 NEW</productName>
+    <prices>$599</prices>
+    <number_of_product>16</number_of_product>
+    <image>secondProduct.jpg</image>
+  </product>
+  <product>
+    <productName>IPHONE 13 LIKE NEW</productName>
+    <prices>$699</prices>
+    <number_of_product>56</number_of_product>
+    <image>secondProduct.jpg</image>
+  </product>
+  <product>
+    <productName>IPHONE 13 </productName>
+    <prices>$799</prices>
+    <number_of_product>7</number_of_product>
+    <image>secondProduct.jpg</image>
+  </product>
+  <product>
+    <productName>IPHONE XS MAX</productName>
+    <prices>$1999</prices>
+    <number_of_product>50</number_of_product>
+    <image>thirdProduct.jpg</image>
+  </product>
+</products>

@@ -1,0 +1,27 @@
+body,
+html {
+  display: flex;
+  background-color: #363f4f;
+  margin: 0;
+  min-height: 100vh;
+  flex-direction: column;
+}
+#mainNavbar {
+  background-color: black;
+}
+#logo {
+  width: 2.5rem;
+  height: 2.5rem;
+  background-color: transparent;
+}
+
+footer {
+  margin-top: auto;
+}
+.icon-group {
+  border-radius: 50%;
+}
+
+.dropdown li a:hover {
+  background: #eee;
+}
